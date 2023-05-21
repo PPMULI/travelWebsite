@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/travelWebsite/static/css/main.f118f77a.css",
+    "main.js": "/travelWebsite/static/js/main.c104f88a.js",
+    "static/js/787.22f0f502.chunk.js": "/travelWebsite/static/js/787.22f0f502.chunk.js",
+    "static/media/beach3.jpg": "/travelWebsite/static/media/beach3.407e4bb9db81631df905.jpg",
+    "static/media/goa.jpg": "/travelWebsite/static/media/goa.fb1a43115772a3abf9be.jpg",
+    "static/media/pritam.jpg": "/travelWebsite/static/media/pritam.dcd206810ce3958313d6.jpg",
+    "static/media/buslogo.gif": "/travelWebsite/static/media/buslogo.b218456b07170e90bd2e.gif",
+    "static/media/entry_denied.jpg": "/travelWebsite/static/media/entry_denied.48e3ae95fbb9a9c295e6.jpg",
+    "static/media/user.png": "/travelWebsite/static/media/user.9e4745a27351f6317a61.png",
+    "static/media/summerpackages.jpg": "/travelWebsite/static/media/summerpackages.e8641d63709737d1f956.jpg",
+    "static/media/trainlogo.jpg": "/travelWebsite/static/media/trainlogo.60ee78042c66d17693bc.jpg",
+    "static/media/lock.jpg": "/travelWebsite/static/media/lock.8833a5e362e69f70ac21.jpg",
+    "static/media/beach2.jpg": "/travelWebsite/static/media/beach2.204862ecf3beb7a50d9c.jpg",
+    "static/media/twitter.png": "/travelWebsite/static/media/twitter.4e4adfa6439ea5bbee6f.png",
+    "static/media/kashmir.jpg": "/travelWebsite/static/media/kashmir.d805bd748e360546129d.jpg",
+    "static/media/git.jpg": "/travelWebsite/static/media/git.ea94429a640e861cba2b.jpg",
+    "static/media/beach1.jpg": "/travelWebsite/static/media/beach1.d0e28b453764a886d333.jpg",
+    "static/media/happycouple.jpg": "/travelWebsite/static/media/happycouple.2bd5fd28b0a8c455886b.jpg",
+    "static/media/adminloginlogo.jpg": "/travelWebsite/static/media/adminloginlogo.72c8d57cedd6b2b815b1.jpg",
+    "static/media/creditCard.jpg": "/travelWebsite/static/media/creditCard.cbce6e2e9a5f32cc4295.jpg",
+    "static/media/linkdienelogo.jpg": "/travelWebsite/static/media/linkdienelogo.beb9ab104070c62517a4.jpg",
+    "static/media/csr.jpg": "/travelWebsite/static/media/csr.66c87ec249a3c3d064eb.jpg",
+    "static/media/flightlogo.jpg": "/travelWebsite/static/media/flightlogo.6302891fb5d60a13d360.jpg",
+    "index.html": "/travelWebsite/index.html",
+    "main.f118f77a.css.map": "/travelWebsite/static/css/main.f118f77a.css.map",
+    "main.c104f88a.js.map": "/travelWebsite/static/js/main.c104f88a.js.map",
+    "787.22f0f502.chunk.js.map": "/travelWebsite/static/js/787.22f0f502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f118f77a.css",
+    "static/js/main.c104f88a.js"
+  ]
+}
