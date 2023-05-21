@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travelWebsite/static/css/main.f118f77a.css",
-    "main.js": "/travelWebsite/static/js/main.d15f7b0b.js",
+    "main.js": "/travelWebsite/static/js/main.c104f88a.js",
     "static/js/787.22f0f502.chunk.js": "/travelWebsite/static/js/787.22f0f502.chunk.js",
     "static/media/beach3.jpg": "/travelWebsite/static/media/beach3.407e4bb9db81631df905.jpg",
     "static/media/goa.jpg": "/travelWebsite/static/media/goa.fb1a43115772a3abf9be.jpg",
@@ -25,11 +25,11 @@
     "static/media/flightlogo.jpg": "/travelWebsite/static/media/flightlogo.6302891fb5d60a13d360.jpg",
     "index.html": "/travelWebsite/index.html",
     "main.f118f77a.css.map": "/travelWebsite/static/css/main.f118f77a.css.map",
-    "main.d15f7b0b.js.map": "/travelWebsite/static/js/main.d15f7b0b.js.map",
+    "main.c104f88a.js.map": "/travelWebsite/static/js/main.c104f88a.js.map",
     "787.22f0f502.chunk.js.map": "/travelWebsite/static/js/787.22f0f502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f118f77a.css",
-    "static/js/main.d15f7b0b.js"
+    "static/js/main.c104f88a.js"
   ]
 }
