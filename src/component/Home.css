@@ -1,0 +1,1227 @@
+.navbar-dark .nav-item .nav-link {
+   color: #fff;
+}
+
+.navbar-dark .nav-item .nav-link:hover {
+   background-color: rgba(255, 255, 255, 0.1);
+   transition: all 0.3s ease;
+   border-radius: 0.25rem;
+   color: #fff;
+}
+
+.fa-li {
+   position: relative;
+   left: 0;
+}
+
+.login {
+   margin-left: 30px;
+}
+
+.login:hover {
+   background-color: black;
+   color: white;
+}
+.navb {
+   position: sticky;
+   width: 100%;
+   border: 5px solid purple;
+    top: 0;
+   z-index: 200;
+}
+
+.heading-container {
+   /* padding: 10px; */
+   position: relative;
+   box-sizing: border-box;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   min-height: 350px;
+   text-align: center;
+   background-position: 50% 50%;
+   border-radius: 20px;
+ }
+
+.partnersheading {
+   text-align: center;
+   position: relative;
+   font-weight: bolder;
+   box-shadow: 5px 5px black;
+   top: -40px;
+}
+
+.heading {
+   font-size: 73px;
+   font-weight: 800;
+   margin-top: 20%;
+   color: beige;
+   text-shadow: 2px 2px 2px black;
+}
+
+.slogancard {
+   position: relative;
+   top: -100px;
+   margin-bottom: 10px;
+   border: 1px solid black;
+   border-radius: 20px;
+}
+
+
+.partners {
+   border: 2px solid black;
+   max-height: 250px;
+   min-height: 250px;
+   border-radius: 20px;
+}
+
+
+
+.localicon {
+   position: relative;
+   top: -1px;
+   /* text-align: center; */
+   justify-content: center;
+   /* font-size: larger; */
+}
+
+.localicon:hover {
+   cursor: pointer;
+   border: 2px solid black;
+   background-color: blueviolet;
+}
+
+.arrow {
+   /* border: 2px solid black; */
+   height: 50px;
+}
+
+#button {
+   /* border: 10px solid black; */
+   margin-left: 25%;
+   margin-right: 25%;
+   position: relative;
+   top: 20px;
+   width: 50%;
+   border-radius: 20px;
+   background: rgba(17, 2, 31, 0.942);
+}
+
+.selectoptions {
+   border: 2px solid black;
+   width: 100%;
+}
+
+.loginbody {
+   min-height: 500px;
+}
+
+#form {
+   background-color: rgb(82, 116, 143);
+   margin-top: 70px;
+   border: 10px solid wheat;
+   border-radius: 20px;
+   padding: 20px;
+}
+
+#user {
+   height: 100px;
+   width: 100px;
+   position: relative;
+   left: 40%;
+   right: 40%;
+   opacity: 0.5;
+}
+
+.logininput {
+   border-radius: 20px;
+}
+
+#loginbutton {
+   margin-left: 40%;
+   margin-right: 40%;
+   border-radius: 10px;
+   background-color: rgba(121, 8, 8, 0.758);
+}
+
+#button:hover {
+   cursor: pointer;
+}
+
+.userlogin {
+   text-align: center;
+}
+
+.aboutuser {
+   border: 2px solid black;
+   min-height: 500px;
+   width: 20%;
+   position: fixed;
+   left: 1000px;
+}
+
+.aboutnav {
+   background-color: red;
+   width: 5%;
+   position: fixed;
+   left: 95%;
+   min-height: 500px;
+   top: 200px;
+}
+
+
+.navbar1 {
+   background-color: #1a38e3;
+   height: 80px;
+   display: flex;
+   position: sticky;
+   top: 0px;
+   z-index: 60;
+   justify-content: start;
+   align-items: center;
+}
+
+.crousalhead {
+   position: sticky;
+   z-index: 35;
+}
+
+.menu-bars {
+   margin-left: 2rem;
+   font-size: 2rem;
+   background: none;
+}
+
+.nav-menu {
+   background-color: #060b26;
+   width: 250px;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   position: fixed;
+   top: 10;
+   left: -100%;
+   transition: 850ms;
+}
+
+.nav-menu.active {
+   left: 0;
+   transition: 350ms;
+}
+
+.nav-text {
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   padding: 8px 0px 8px 16px;
+   list-style: none;
+   height: 60px;
+}
+
+.nav-text a {
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+   width: 95%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   padding: 0 16px;
+   border-radius: 4px;
+}
+
+.nav-text a:hover {
+   cursor: pointer;
+   background-color: #1a83ff;
+}
+
+.nav-menu-items {
+   width: 100%;
+}
+
+.navbar-toggle {
+   background-color: #060b26;
+   width: 100%;
+   height: 80px;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+}
+
+span {
+   margin-left: 16px;
+}
+
+.about-content-distance {
+   margin-left: 250px;
+   min-height: 500px;
+}
+
+.about-content {
+   margin-left: 20px;
+   margin-right: 20px;
+   min-height: 500px;
+}
+
+.ourexperience {
+   text-align: center;
+}
+
+.shakehand {
+   width: 100%;
+   height: 500px;
+   border-radius: 10px;
+   border: 10px solid black;
+}
+
+.aboutcard {
+   text-align: center;
+   font-weight: 800;
+}
+
+.aboutcardtext {
+   text-align: center;
+}
+
+.visioncard {
+   margin: 10px;
+   position: sticky;
+   top: 0;
+   z-index: 15;
+}
+
+.visioncardbody {
+   margin-bottom: 10px;
+}
+
+.flightbody {
+   /* background-color: #060b26; */
+   border: 2px solid black;
+
+}
+
+.flight {
+   min-height: 250px;
+}
+
+.flight_active {
+   margin-left: 250px;
+}
+
+.services {
+   position: relative;
+   margin-left: 10%;
+   margin-right: 10%;
+   text-align: center;
+   z-index: 35;
+   top: 20px;
+   position: relative;
+   justify-content: center
+}
+
+.flightdetails {
+   position: relative;
+   top: -30px;
+   z-index: 30;
+   min-height: 300px;
+   height: fit-content;
+   border: 5px solid black;
+   background-color: aliceblue;
+}
+
+.servicecard:hover {
+   cursor: pointer;
+   background-color: #060b26;
+   color: white;
+}
+
+.form {
+   margin-top: 100px;
+}
+
+.travellingclass {
+   height: fit-content;
+   width: 100%;
+}
+
+#flightbutton {
+   width: 80%;
+   margin-left: 10%;
+   margin-top: 30px;
+   margin-right: 10%;
+}
+
+.hello {
+   border: 10px solid black;
+}
+
+.busform {
+   /* border: 5px solid black; */
+   padding: 20px;
+   position: relative;
+   top: -20px;
+   /* margin-left: 60%; */
+   box-shadow: 10px 10px 10px black;
+}
+
+.gender {
+   width: 100%;
+}
+
+
+.error {
+   margin: 3px;
+   border: 3px solid red;
+}
+
+.errText {
+   color: red;
+   visibility: initial;
+}
+
+.text {
+   visibility: hidden;
+}
+
+.success {
+   margin: 3px;
+   border: 3px solid green;
+}
+
+.txt {
+   visibility: hidden;
+}
+
+.succText {
+   color: green;
+   font-size: large;
+}
+
+.errText {
+   color: red;
+   font-size: large;
+}
+
+.signupbody {
+   background-color: gray;
+}
+
+.signupheading {
+   text-align: center;
+}
+
+#gender {
+   /* border: 5px solid rebeccapurple; */
+   width: 100%;
+   height: fit-content;
+}
+
+.succText {
+   color: green;
+}
+
+.logout {
+   width: 100px;
+   background-color: black;
+   color: wheat;
+   border: 3px solid wheat;
+}
+
+.logout:hover {
+   background-color: red;
+   color: white;
+}
+
+.loginheading {
+   text-align: center;
+   margin-top: 20px;
+   padding: 5px;
+   background-color: black;
+   color: wheat;
+}
+
+#loginform {
+   padding: 20px;
+   margin-top: 10px;
+   border: 10px solid wheat;
+   background-color: gray;
+   border-radius: 20px;
+}
+
+.loginbutton {
+   margin-left: 40%;
+   margin-right: 40%;
+   width: fit-content;
+   background-color: #060b26;
+}
+
+.passengerheading {
+   text-align: center;
+   background-color: black;
+   color: wheat;
+}
+
+#passengerform {
+   border: 2px solid black;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+#passengeraccnolodgement {
+   border: 5px solid black;
+   margin-top: 30px;
+   border-radius: 30px;
+   padding: 20px;
+   background-color: grey;
+   color: white;
+}
+
+.passengeraccnolodgementheading {
+   margin-top: 10px;
+   background-color: black;
+   color: wheat;
+   text-align: center;
+   border-radius: 20px;
+   animation-name: heading;
+   animation-duration: 10s;
+   animation-iteration-count: infinite;
+}
+
+@keyframes heading {
+   0% {
+      color: wheat;
+   }
+
+   50% {
+      color: green;
+   }
+
+   100% {
+      color: white;
+   }
+}
+
+.note {
+   background-color: red;
+   padding: 5px;
+}
+
+.crousal_active {
+   margin-left: 250px;
+   margin-top: 10px;
+   margin-left: 250px;
+}
+
+.crousal {
+   margin-left: 0px;
+}
+
+.crousalimage {
+   margin-top: 10px;
+   border: 20px solid black;
+   height: 600px;
+   width: 500px;
+   position: relative;
+   z-index: 35;
+}
+
+.mybookingcard {
+   position: relative;
+   z-index: 40;
+   margin-left: 20%;
+   margin-right: 20%;
+   top: -70px;
+}
+
+.mybookingimage {
+   height: 50px;
+   width: 50px;
+   text-align: center;
+   margin-left: 40%;
+   margin-right: 40%;
+   justify-content: center;
+}
+
+.mybookingcardbody {
+   text-align: center;
+}
+
+.showbooking {
+   border: 5px solid black;
+}
+
+.inspiration {
+   text-align: center;
+   position: relative;
+   top: -30px;
+}
+
+.mybookingbody {
+   background-color: antiquewhite;
+}
+
+.yourbooking {
+   text-align: center;
+   padding: 20px;
+}
+
+#bookinghistorybody {
+   background-color: aquamarine;
+   min-height: 500px;
+   height: fit-content;
+   padding: 20px;
+}
+
+.info {
+   border: 2px solid black;
+   background-color: rgb(240, 225, 225);
+   min-height: 300px;
+   margin-top: 100px;
+   border-radius: 50px;
+   width: 60%;
+}
+
+.profilepic {
+   height: 150px;
+   margin-left: 40%;
+   margin-right: 40%;
+   margin-top: 20px;
+}
+
+.usercard {
+   margin-left: 30%;
+   margin-right: 30%;
+   text-align: center;
+}
+
+.userdetails {
+   text-align: start;
+}
+
+.active {
+   background-color: black;
+}
+
+.suggestion {
+   text-align: center;
+   border: 2px solid black;
+   margin-top: 20px;
+   background-color: black;
+   color: wheat;
+   margin-left: 10%;
+   border-radius: 50px;
+   margin-right: 10%;
+}
+
+.suggestionform {
+   border: 2px solid black;
+   padding: 30px;
+   border-radius: 20px;
+   background-color: gray;
+   margin-top: 20px;
+   box-shadow: 5px 5px black;
+}
+
+.suggestioninput {
+   border: 2px solid black;
+   border-radius: 20px;
+}
+
+.suggestionform label {
+   font-weight: 700;
+}
+
+#suggestionbutton {
+   margin-left: 20%;
+   width: 60%;
+   margin-right: 20%;
+   position: relative;
+   top: 20px;
+}
+
+.journey1 {
+   background-color: gray;
+   display: flex;
+   border: 2px solid gray;
+   flex-direction: column-reverse;
+}
+
+.upcomming_journey {
+   text-align: center;
+   position: relative;
+   bottom: 30px;
+   font-weight: 900;
+   font-size: larger;
+   display: flex;
+   flex-direction: column-reverse;
+}
+
+#bookcard {
+   width: 50%;
+   position: relative;
+   bottom: 350px;
+   margin-left: 150px;
+   /* border: 2px solid black; */
+}
+
+.bookcard_image {
+   text-align: center;
+}
+
+.image {
+   width: 100px;
+   height: 100px;
+   height: fit-content;
+   border-radius: 50px;
+   left: 30px;
+   position: relative;
+}
+
+#cardbook {
+   border: 2px solid black;
+   border-top-right-radius: 50px;
+   border-bottom-right-radius: 50px;
+   background-color: black;
+   color: wheat;
+}
+
+.bookedTickets {
+   margin-top: 10px;
+   text-align: center;
+   padding: 10px;
+   border-radius: 20px;
+   background-color: black;
+   color: wheat;
+}
+
+.navbar2 {
+   margin-top: 10px;
+}
+
+.cancellation {
+   text-align: center;
+   border: 2px solid black;
+   animation-name: cancellationheading;
+   animation-duration: 10s;
+   background-color: black;
+   animation-iteration-count: infinite;
+   border-radius: 50px;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top: 20px;
+}
+
+@keyframes cancellationheading {
+   0% {
+      color: wheat;
+   }
+
+   50% {
+      color: green;
+   }
+
+   100% {
+      color: red;
+   }
+}
+
+.favicon {
+   margin-left: 90px;
+}
+
+.faviconbutton {
+   margin: 5px;
+}
+
+.flightheading {
+   text-align: center;
+   position: relative;
+}
+
+.flightlogo {
+   position: relative;
+   height: 100px;
+}
+
+.flightheading1 {
+   bottom: 25px;
+   position: relative;
+}
+
+#chooselogincard {
+   min-height: 300px;
+}
+
+.chooselogincardtext {
+   text-align: center;
+   margin-top: 100px;
+}
+
+.horizontalline {
+   transform: rotate(90deg);
+}
+
+.adminlofinform {
+   border: 1px solid black;
+   padding: 30px;
+   z-index: 30;
+   border-radius: 10px;
+   position: relative;
+   background-color: white;
+}
+
+.adminlofinformlabel {
+   font-size: large;
+}
+
+#adminlofinformbutton {
+   text-align: center;
+}
+
+.adminlofinformbutton {
+   width: 50%;
+}
+
+.adminloginlogo {
+   text-align: center;
+}
+
+.adminlogoimage {
+   height: 150px;
+   top: -50px;
+   z-index: 40;
+   width: 150px;
+   border-radius: 30%;
+   position: relative;
+}
+
+.adminloginheading {
+   color: wheat;
+   position: relative;
+   top: -20px;
+}
+
+.adminnav {
+   background-color: gray;
+   color: wheat;
+}
+
+.adminnavitem {
+   margin-left: 30%;
+}
+
+.nav-item {
+   margin-right: 10px;
+}
+
+.adminnavbar {
+   list-style: none;
+   margin: auto;
+   display: flex;
+}
+
+.adminnavbarlist a {
+   margin: 20px;
+   color: wheat;
+}
+
+.adminnavbarlist:hover {
+   color: black;
+   cursor: pointer;
+}
+
+.adminnavcard {
+   border: 2px solid black;
+   padding: 10px;
+   margin-left: 200px;
+}
+
+.dashboardcardbody {
+   text-align: center;
+}
+
+.dashboardcard {
+   background-color: black;
+   color: wheat;
+   z-index: 50;
+   position: relative;
+   min-height: 700px;
+}
+
+.pritamphoto {
+   height: 400px;
+   width: 400px;
+   border: 10px solid red;
+   border-radius: 50%;
+   margin: auto;
+   margin-top: 20px;
+}
+
+.dashboardcardbutton {
+   margin-top: 20px;
+}
+
+#service {
+   margin-left: 40%;
+   margin-right: 40%;
+   border-radius: 50px;
+   width: 20%;
+   background-color: red;
+}
+
+#service:hover {
+   color: antiquewhite;
+   background-color: black;
+}
+
+
+.chooselogin {
+   background-color: wheat;
+   min-height: 700px;
+   height: fit-content;
+   padding-top: 20px;
+}
+
+.adminlogin {
+   text-align: center;
+   margin-bottom: 20px;
+   background-color: black;
+   color: white;
+   padding: 5px;
+   border-radius: 100px;
+   animation-name: adminloginheading;
+   animation-duration: 10s;
+   animation-iteration-count: infinite;
+}
+
+@keyframes adminloginheading {
+   0% {
+      color: wheat;
+   }
+
+   50% {
+      color: green;
+   }
+
+   100% {
+      color: white;
+   }
+}
+
+.offer {
+   border: 30px solid black;
+   min-height: 700px;
+   height: fit-content;
+}
+
+.offerblock {
+   background-color: green;
+   min-height: 200px;
+   border-bottom-right-radius: 100%;
+}
+
+.offerblock1 {
+   background-color: green;
+   min-height: 200px;
+   border-bottom-left-radius: 100%;
+}
+
+.offerblock2 {
+   background-color: blue;
+   min-height: 500px;
+   margin-left: 5px;
+   width: 200px;
+   border-top-right-radius: 100%;
+}
+
+.offerblock4 {
+   background-color: #1a38e3;
+   position: relative;
+   left: 20px;
+   border-top-left-radius: 100%;
+}
+
+.offerheading{
+   text-align: center;
+   font-weight: 600;
+   font-size: xx-large;
+}
+
+.bookinghistoryheading {
+   text-align: center;
+   margin: 20px;
+   background-color: orangered;
+   color: whitesmoke;
+   border-radius: 50px;
+   text-shadow: 2px 2px 2px black;
+}
+.bookinghistoryform {
+   border: 2px solid black;
+   border-radius: 20px;
+   padding: 10px;
+}
+
+.bookinghistorybutton:hover {
+   background-color: gray;
+   color: black;
+   border-radius: 50px;
+}
+
+.tableheading{
+   border: 2px solid black;
+   margin: 5px;
+   width: fit-content;
+}
+
+.booked_card{
+   margin-top: 10px;
+}
+
+.booked_card_data{
+   border: 2px solid black;
+   border-radius: 20px;
+   background-color: gray;
+   color: wheat;
+}
+
+.checkpassengerheading{
+   text-align: center;
+   margin: 10px;
+   background-color: darkslategray;
+   color: wheat;
+   margin-left: 20%;
+   margin-right: 20%;
+   border-radius: 40px;
+   padding: 5px;
+   text-shadow: 5px 5px black;
+}
+
+.dashboardnewtext {
+   color: darkgreen;
+   position: relative;
+   font-weight: 900;
+}
+
+.dashboardnewsubtext{
+   position: relative;
+   right: 10px;
+   font-weight: 800;
+}
+
+.dashboardnewlogo{
+   margin-left: 300px;
+}
+
+#newdashboarditems {
+   margin-left: 50px;
+   font-weight: 500;
+}
+
+.newdashboardheader {
+   box-shadow: 2px 2px black;
+}
+
+.newdashboardhome{
+   color: green;
+}
+
+.happycouple{
+   height: fit-content;
+   width: fit-content;
+}
+
+.happycoupleimage{
+   margin-top: 100px;
+   margin-left: 50px;
+   border-radius: 20px;
+   border: 5px solid black;
+   height: 500px;
+   width: 420px;
+}
+
+.welcome{
+   font-size: xx-large;
+   text-align: center;
+   margin-top: 40%;
+   text-shadow: 2px 2px 2px black;
+   color: red;
+}
+
+.welcomeoffer{
+   text-align: center;
+   font-size: x-large;
+   color: green;
+}
+
+#offerbutton{
+   border: 2px solid black;
+   margin-left: 35%;
+   margin-right: 35%;  
+}
+
+#offerbutton:hover {
+   background-color: red;
+}
+
+.ourpackages{
+   text-align: center;
+}
+
+.tourcard{
+   margin: 50px;
+}
+
+.tourcardbody{
+   border: 5px solid black;
+   padding: 15px;
+}
+
+.offerimage{
+   height: 200px;
+}
+
+#loginitem {
+   margin-left: 100px;
+}
+
+.adminloginnav:hover {
+   background-color: black;
+   color: white;
+}
+
+.farecard{
+   background-color: #1a38e3;
+   color: white;
+   /* width: 25%; */
+   min-height: 700px;
+   height: fit-content;
+}
+
+#lock {
+   height: 250px;
+   padding: 20px;
+}
+
+.tourdetails{
+   background-color: white;
+   color: black;
+   padding: 20px;
+   border-radius: 20px;
+}
+
+.fare-card-title{
+   text-align: center;
+   position: relative;
+   top: -20px;
+}
+ 
+.payment{
+  margin-top: 10px;
+}
+
+.paymentoptions{
+   /* margin: 20px; */
+   margin-left: 20px;
+   border: 2px solid black;
+   height: 250px;
+}
+
+.farecardimage {
+   margin-top: 50px;
+   height: 150px;
+}
+
+.farecardtitle {
+   text-align: center;
+   background-color: black;
+   color: white;
+}
+
+.farecardtitle:hover {
+   cursor: pointer;
+   background-color: green;
+}
+
+.billingdetails{
+   border: 2px solid black;
+   border-radius: 20px;
+   margin: 5px;
+   margin-top: 20px;
+   padding: 30px;
+}
+
+#visalogo{
+   height: 35px;
+   width: 90px;
+}
+
+#paymentdetailsbutton{
+   border: 2px solid black;
+   width: 100%;
+   margin-top: 15%;
+}
+
+#paymentdetailsbutton:hover{
+   background-color: green;
+}
+
+.contact{
+   margin-top: 50px;
+   height: fit-content;
+   padding: 10px;
+   background-color: rgb(131, 118, 183);
+   border: 2px solid black;
+   border-radius: 10px;
+}
+
+.contactpritam{
+   height: 250px;
+   width: 250px;
+   border: 10px solid black;
+   border-radius: 200px;
+   padding: 20px;
+   background-color: red;
+}
+
+.contactperson {
+   text-align: center;
+   text-shadow: 2px 2px 2px rebeccapurple;
+}
+
+.contactheading{
+   text-align: center;
+   padding: 20px;
+   color: wheat;
+}
+
+.logo{
+   height: 50px;
+   width: 50px;
+   border-radius: 20px;
+}
+
+.logo:hover{
+   cursor: pointer;
+   width: 60px;
+   height: 60px;
+}
+
+#row{
+   margin-top: 30px;
+}
+
+.contactcard{
+   background-color: rgb(175, 28, 28);
+   color: white;
+}
+
+.suggestioncard{
+   margin-top: 20px;
+}
+
+.suggestions{
+   background-color: rgb(180, 18, 18);
+   color: whitesmoke;
+   box-shadow: 3px 3px 3px black;
+}
