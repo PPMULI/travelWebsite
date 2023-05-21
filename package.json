@@ -1,4 +1,5 @@
 {
+  "homepage": "https://PPMULI.github.io/travelWebsite",
   "name": "gle",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +22,6 @@
     "express": "^4.18.2",
     "express-validator": "^6.14.2",
     "gapi-script": "^1.2.0",
-    "gh-pages": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
     "material-ui-icons": "^1.0.0-beta.36",
     "mongoose": "^6.7.2",
@@ -45,6 +45,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "both": "concurrently \"npm run start\" \"nodemon gle-backend/index.js\"",
@@ -71,5 +73,8 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
