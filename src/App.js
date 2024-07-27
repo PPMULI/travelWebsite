@@ -30,11 +30,12 @@ import CheckPassenger from "./component/AdminPannel/Bookticket/CheckPassenger";
 import Dashboardnew from "./dashboardnew/Dashboardnew";
 import Fare from "./component/travellers/Fare";
 import Contact from "./component/Contactus/Contact";
+import FileUploadForm from "./component/FileUploadForm";
 
 function App() {
   return (
     <>
-      <TravelState>
+      {/* <TravelState>
         <Notestate>
           <Router>
             <Routes>
@@ -83,7 +84,8 @@ function App() {
             </Routes>
           </Router>
         </Notestate>
-      </TravelState>
+      </TravelState> */}
+<FileUploadForm />
     </>
   );
 }

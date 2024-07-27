@@ -110,15 +110,15 @@ router.post(
  
   
 // get user
-router.post("/getadmin", fetchadmin, async (req, res) => {
+// router.post("/getadmin", fetchadmin, async (req, res) => {
 
-  try {
-    adminId = req.admin.id
-    const admin = await Admin.findById(adminId).select(-"password");
-    res.json({admin})
-  } catch (error) {
-    res.status(500).send("Internal server error")
-  }
-})
+//   try {
+//     adminId = req.admin.id
+//     const admin = await Admin.findById(adminId).select(-"password");
+//     res.json({admin})
+//   } catch (error) {
+//     res.status(500).send("Internal server error")
+//   }
+// })
 
 module.exports = router;
